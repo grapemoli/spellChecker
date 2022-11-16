@@ -1,10 +1,11 @@
-Spell-Checking & Word Suggestion
+# Spell-Checking & Word Suggestion
+By: Grace Nguyen
 
-Goal:
+## Goal:
 Given a user input, return if the word is valid (in the table), or not. In the case that the user misspells the word, provide a word suggestion.
 
-User Instructions:
-After making use of the makefile, run the program by the 'make run' command.
+## User Instructions:
+For ease, a makefile is provided. After making use of the makefile, run the program by the 'make run' command.
 
 The user will be taken to a menu screen.
 
