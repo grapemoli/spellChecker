@@ -1,5 +1,4 @@
 # Spell-Checking & Word Suggestion
-By: Grace Nguyen
 
 ## Goal:
 Given a user input, return if the word is valid (in the table), or not. In the case that the user misspells the word, provide a word suggestion.
